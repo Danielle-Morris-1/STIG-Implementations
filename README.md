@@ -37,4 +37,15 @@ These scripts are provided for *educational use* and lab environments. Use at yo
   Ensures the Windows Application Event Log max size is set to at least 32MB (32768 KB).
 
 ---
+
+## 🚀 Project Status
+
+![Status](https://img.shields.io/badge/Status-In--Progress-yellow)
+![PowerShell](https://img.shields.io/badge/Scripted%20in-PowerShell-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows%2010-lightgrey)
+![Security Focus](https://img.shields.io/badge/Focus-STIG%20Remediation-critical)
+![Automation](https://img.shields.io/badge/Automation-Enabled-blueviolet)
+
+
+---
 >  🧱  *"A secure system is a well-configured system, built to defend and evolve."*
