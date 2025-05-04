@@ -8,7 +8,7 @@ This repository helps automate the remediation of Windows 10 security configurat
 1. **Clone the repository**  
    Download the repository to your local machine:
    ```bash
-   git clone https://github.com/Danielle-Morris-1/STIG-Remediation-Scripts
+   git clone https://github.com/Danielle-Morris-1/STIG-Remediation-Scripts.git
    cd STIG-remediation-scripts
 
 2. **Run scripts in PowerShell (Admin)**
