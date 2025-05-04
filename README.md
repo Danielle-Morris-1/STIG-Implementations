@@ -37,9 +37,4 @@ These scripts are provided for *educational use* and lab environments. Use at yo
   Ensures the Windows Application Event Log max size is set to at least 32MB (32768 KB).
 
 ---
-
-## 👩🏽‍💻 Maintainer
-
-Created and maintained by Danielle Morris 
-
-Feel free to open issues or contribute improvements!
+>  🧱  *"A secure system is a well-configured system, built to defend and evolve."*
