@@ -20,7 +20,7 @@
     PowerShell Ver. : 
 
 .USAGE
-    PS C:\> .\WN10-AU-000500.ps1 
+    PS C:\> .\WN10-AU-000500.ps1
 #>
 
 # Ensure the script is run with Administrator privileges
