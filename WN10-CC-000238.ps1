@@ -14,7 +14,7 @@ Ensures 'PreventCertErrorOverrides' is set to 1 in compliance with Windows 10 DI
     STIG-ID         : WN10-CC-000238
 
 .USAGE
-    PS C:\> .\WN10-CC-000238.ps1 
+    PS C:\> .\WN10-CC-000238.ps1
 #>
 
 # Define registry path and expected value
