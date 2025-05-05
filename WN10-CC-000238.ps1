@@ -4,6 +4,8 @@ Ensures 'PreventCertErrorOverrides' is set to 1 in compliance with Windows 10 DI
 
 .NOTES
     Author          : Danielle Morris
+    LinkedIn        : linkedin.com/in/danielle-morris-04232368/
+    GitHub          : github.com/Danielle-Morris-1
     Date Created    : 2025-05-05
     Last Modified   : 2025-05-05
     Version         : 1.0
