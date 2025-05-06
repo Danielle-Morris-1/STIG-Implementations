@@ -13,6 +13,12 @@ Ensures 'PreventCertErrorOverrides' is set to 1 in compliance with Windows 10 DI
     Plugin IDs      : N/A
     STIG-ID         : WN10-CC-000238
 
+.TESTED ON
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : 
+    PowerShell Ver. : 
+
 .USAGE
     PS C:\> .\WN10-CC-000238.ps1
 #>
