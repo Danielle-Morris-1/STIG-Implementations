@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-Ensures BitLocker authentication settings are configured in compliance with Windows 10 DISA STIG.
+This PowerShell script ensures that BitLocker requires a PIN for startup authentication on operating system drives
 
 .NOTES
     Author          : Danielle Morris
@@ -20,6 +20,7 @@ Ensures BitLocker authentication settings are configured in compliance with Wind
     PowerShell Ver. : 
 
 .USAGE
+    Run as Administrator
     PS C:\> .\WN10-00-000031.ps1
 #>
 
@@ -41,7 +42,7 @@ if (-not (Test-Path $regPath)) {
 # Apply each STIG-compliant registry value
 foreach ($name in $values.Keys) {
     Set-ItemProperty -Path $regPath -Name $name -Value $values[$name] -Type DWord
-    Write-Host "'$name' has been successfully set to $($values[$name]) as required by the DISA STIG."
+    Write-Host "'$name' has been successfully set to $($values[$name]) as required"
 }
 
 # Output success message
