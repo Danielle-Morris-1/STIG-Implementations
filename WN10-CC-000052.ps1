@@ -5,6 +5,8 @@ This PowerShell script ensures that 'EccCurves' is set to include 'NistP384' and
 
 .NOTES
     Author          : Danielle Morris
+    LinkedIn        : linkedin.com/in/danielle-morris-04232368/
+    GitHub          : github.com/Danielle-Morris-1
     Date Created    : 2025-05-06
     Last Modified   : 2025-05-06
     Version         : 1.3
