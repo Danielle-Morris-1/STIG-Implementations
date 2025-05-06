@@ -20,6 +20,7 @@ This PowerShell script ensures that webcam access is denied by setting the 'Valu
     PowerShell Ver. : 
 
 .USAGE
+    Run as Administrator
     PS C:\> .\WN10-CC-000007.ps1
 #>
 
