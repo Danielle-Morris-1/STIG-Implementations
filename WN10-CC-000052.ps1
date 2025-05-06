@@ -21,6 +21,7 @@ This PowerShell script ensures that 'EccCurves' is set to include 'NistP384' and
     PowerShell Ver. : 
 
 .USAGE
+    Run as Administrator
     PS C:\> .\WN10-CC-000052.ps1 
 #>
 
