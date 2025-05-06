@@ -20,10 +20,9 @@
     PowerShell Ver. : 
 
 .USAGE
+    Run as Administrator
     PS C:\> .\WN10-AU-000500.ps1
 #>
-
-# Ensure the script is run with Administrator privileges
 
 # Define the registry path
 $registryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application"
