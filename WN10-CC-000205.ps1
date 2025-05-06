@@ -20,6 +20,7 @@
     PowerShell Ver. : 
 
 .USAGE
+    Run as Administrator
     PS C:\> .\WN10-CC-000205.ps1 
 #>
 
