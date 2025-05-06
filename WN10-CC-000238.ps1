@@ -20,6 +20,7 @@ Ensures 'PreventCertErrorOverrides' is set to 1 in compliance with Windows 10 DI
     PowerShell Ver. : 
 
 .USAGE
+    Run as Administrator
     PS C:\> .\WN10-CC-000238.ps1
 #>
 
