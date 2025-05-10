@@ -6,8 +6,8 @@ This PowerShell script ensures the 'RequireSecuritySignature' registry value is 
     Author          : Danielle Morris
     LinkedIn        : linkedin.com/in/danielle-morris-04232368/
     GitHub          : github.com/Danielle-Morris-1
-    Date Created    : 2025-05-06
-    Last Modified   : 2025-05-06
+    Date Created    : 2025-05-09
+    Last Modified   : 2025-05-09
     Version         : 1.0
     STIG-ID         : WN10-SO-000100
 
